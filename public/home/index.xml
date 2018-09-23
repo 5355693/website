@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on John Lloyd</title>
-    <link>/home/</link>
+    <link>https://johnlloyd.name/home/</link>
     <description>Recent content in Homes on John Lloyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnlloyd.name/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://johnlloyd.name/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://johnlloyd.name/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Lloyd</title>
-      <link>/home/hero/</link>
+      <link>https://johnlloyd.name/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://johnlloyd.name/home/hero/</guid>
       <description>Scientist, naturalist, writer</description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://johnlloyd.name/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://johnlloyd.name/home/about/</guid>
       <description>Biography John Lloyd is the Director of Science at the Vermont Center for Ecostudies and Adjunct Associate Professor in the Rubenstein School of Environment and Natural Resources at the University of Vermont. His research interests include quantitative natural history, especially of birds; approaches to land-use management that sustain biological diversity and healthy, productive human communities; and spatial conservation planning. Most of his work is conducted at the nexus of science, policy, and conservation practice, with the goal of promoting scientifically defensible approaches to land-use management.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://johnlloyd.name/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://johnlloyd.name/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://johnlloyd.name/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://johnlloyd.name/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>https://johnlloyd.name/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://johnlloyd.name/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <link>https://johnlloyd.name/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>https://johnlloyd.name/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://johnlloyd.name/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://johnlloyd.name/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://johnlloyd.name/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://johnlloyd.name/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://johnlloyd.name/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://johnlloyd.name/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://johnlloyd.name/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://johnlloyd.name/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -115,37 +115,37 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://johnlloyd.name/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://johnlloyd.name/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/home/search/</link>
+      <link>https://johnlloyd.name/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>/home/search/</guid>
+      <guid>https://johnlloyd.name/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://johnlloyd.name/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://johnlloyd.name/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/hero/</link>
+      <link>https://johnlloyd.name/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://johnlloyd.name/home/hero/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Lloyd on John Lloyd</title>
-    <link>/</link>
+    <link>https://johnlloyd.name/</link>
     <description>Recent content in John Lloyd on John Lloyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://johnlloyd.name/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://johnlloyd.name/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -31,21 +31,11 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Positive interactions under nurse-plants: spatial scale, stress gradients and benefactor size</title>
-      <link>/publication/positiveinteractionsundernurseplants/</link>
+      <link>https://johnlloyd.name/publication/positiveinteractionsundernurseplants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/positiveinteractionsundernurseplants/</guid>
+      <guid>https://johnlloyd.name/publication/positiveinteractionsundernurseplants/</guid>
       <description>&lt;p&gt;+++ title = “Positive interactions under nurse-plants: spatial scale, stress gradients and benefactor size” date = “2001-05-01T00:00:00” draft = false&lt;/p&gt;
 &lt;div id=&#34;authors.-comma-separated-list-e.g.-bob-smith-david-jones.&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
@@ -81,7 +71,7 @@
 &lt;/div&gt;
 &lt;div id=&#34;publication-name-and-optional-abbreviated-version.&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-&lt;p&gt;publication = “Oecologia” publication_short = []&lt;/p&gt;
+&lt;p&gt;publication = “In &lt;em&gt;Oecologia&lt;/em&gt;.” publication_short = “In &lt;em&gt;Oecologia&lt;/em&gt;”&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;abstract-and-optional-shortened-version.&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Abstract and optional shortened version.&lt;/h1&gt;

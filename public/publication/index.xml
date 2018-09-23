@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on John Lloyd</title>
-    <link>/publication/</link>
+    <link>https://johnlloyd.name/publication/</link>
     <description>Recent content in Publications on John Lloyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnlloyd.name/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Positive interactions under nurse-plants: spatial scale, stress gradients and benefactor size</title>
-      <link>/publication/positiveinteractionsundernurseplants/</link>
+      <link>https://johnlloyd.name/publication/positiveinteractionsundernurseplants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/positiveinteractionsundernurseplants/</guid>
+      <guid>https://johnlloyd.name/publication/positiveinteractionsundernurseplants/</guid>
       <description>+++ title = “Positive interactions under nurse-plants: spatial scale, stress gradients and benefactor size” date = “2001-05-01T00:00:00” draft = false
 Authors. Comma separated list, e.g. [&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]. authors = [“JJ Tewksbury”, “JD Lloyd”]
  Publication type.  Legend:  0 = Uncategorized  1 = Conference paper  2 = Journal article  3 = Manuscript  4 = Report  5 = Book  6 = Book section publication_types = [“2”]</description>

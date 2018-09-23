@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://johnlloyd.name/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://johnlloyd.name/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -20,15 +20,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
+      <loc>https://johnlloyd.name/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -36,7 +28,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://johnlloyd.name/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -45,14 +37,14 @@
     
     <url>
     
-      <loc>/publication/positiveinteractionsundernurseplants/</loc>
+      <loc>https://johnlloyd.name/publication/positiveinteractionsundernurseplants/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://johnlloyd.name/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -60,7 +52,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://johnlloyd.name/publication/</loc>
       <priority>0</priority>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://johnlloyd.name/tags/</loc>
       <priority>0</priority>
     </url>
     
