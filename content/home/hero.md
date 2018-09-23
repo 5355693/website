@@ -15,7 +15,6 @@ weight = 3
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/ladySlippersWide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5 # Darken the image. Value in range 0-1.
-Scientist, naturalist, writer
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
@@ -23,6 +22,6 @@ Scientist, naturalist, writer
 #[cta]
 #  url = "./post/getting-started/"
 #  label = '<i class="fas fa-download"></i> Install Now'
-
-
 +++
+Scientist, naturalist, writer
+
