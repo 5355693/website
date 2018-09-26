@@ -16,7 +16,7 @@ image_preview = "vermontBiodiversity.jpg"
 tags = ["Conservation","biodiversity","Collaboration", "Vermont"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://figshare.com/articles/Co-creating_an_action-oriented_agenda_for_biodiversity_research_in_Vermont/5693221"
+# external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
