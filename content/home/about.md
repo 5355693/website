@@ -35,8 +35,6 @@ weight = 5
 
 # Biography
 
-John Lloyd is the Director of Science at the Vermont Center for Ecostudies and Adjunct Associate Professor in the Rubenstein School of Environment and Natural Resources at the University of Vermont. His research interests include quantitative natural history, especially of birds; approaches to land-use management that sustain biological diversity and healthy, productive human communities; and spatial conservation planning. Most of his work is conducted at the nexus of science, policy, and conservation practice, with the goal of promoting scientifically defensible approaches to land-use management.  
+I am the Director of Science at the Vermont Center for Ecostudies and Adjunct Associate Professor in the Rubenstein School of Environment and Natural Resources at the University of Vermont. My research interests are broad, ranging from natural history to sustainable development. I am especially interested in figuring out how to better connect science, conservation policy, and conservation practice.  
 
-As the Director of Science at the Vermont Center for Ecostudies, Dr. Lloyd identifies organization-wide research priorities that meet the goal of uniting people and science for conservation. He works with senior scientists, program directors, and post-doctoral associates in developing projects that address these priorities and with development staff to obtain funding. He ensures that the organization's science is rigorous and mission-driven; that it effectively communicates its science with the right people, in the right way, and at the right time; and that its engagement with citizen-scientists, decision-makers, and other stakeholders is positive, creative, and beneficial to all involved. 
-
-Dr. Lloyd also has longstaning interests in scientific publishing and scientific communication, and to that end has served as a freelance editor for PLOS Biology since 2014.
+I also have a longstaning interest in scientific publishing and scientific communication, which I am able to indulge as a freelance editor for PLOS Biology and as a very occasional blogger.
