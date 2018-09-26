@@ -1,5 +1,5 @@
 +++
-title = "The recent expansion of Fox Sparrow (*Passerella iliaca iliaca*)  breeding range into the northeastern United States"
+title = "The recent expansion of Fox Sparrow (Passerella iliaca iliaca)  breeding range into the northeastern United States"
 date = 2018-09-12T00:00:00
 draft = false
 
