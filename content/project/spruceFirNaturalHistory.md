@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "sprFirNatHistMainImage.jpg"
+image = "natHistSprFirMainImage.jpg"
 caption = "Spruce-fir forests of the northeastern US are valuable for many reasons, from the role they play in providing habitat for fish and wildlife to the rural economies that they can support."
 
 +++
