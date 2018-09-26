@@ -32,3 +32,7 @@ In June 2016, we assembled a group of scientists, practitioners, and policy-make
 2) what knowledge do we need to address these threats?
 
 By bringing together this diverse group of stakeholders and asking them to discuss these questions together, we sought to narrow the divides among science, policy, and action that have at times hindered development and implementation of effective biodiversity-conservation strategies. As Vermont enters an era of potentially rapid change in land use and land cover, brought about by large-scale processes including climate change and demographic and economic shifts that favor developed lands over wild or working lands, the need for unified conservation strategies that draw on the strengths of all stakeholders will become increasingly critical. Addressing this need requires dismantling the silos that separate scientists, conservation practitioners, and decision-makers. This dialogue event was a preliminary effort at doing so.
+
+The full report is available at Figshare:
+
+https://figshare.com/articles/Co-creating_an_action-oriented_agenda_for_biodiversity_research_in_Vermont/5693221
