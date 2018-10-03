@@ -29,9 +29,3 @@ What explains this phenomenon? Right now, the answer is anyone's guess. One poss
 We've grown used to stories of climate change causing rapid shifts in the distribution of plants and animals across the globe, with southern species marching northward as the climate warms. Very rarely, though, do we see the opposite: a boreal species charging southward.
 
 Much remains to be learned about our new breeding resident: what is driving the southward expansion, what implications exist for the species that make up the biological communities colonized by Fox Sparrows, and where Fox Sparrows will finally stop. In the meantime, though, keep an eye out as you explore the wilds of the northeast and don't be surprised to see one of these boisterous northerners next summer.
-
-<style>
-p.caption {
-  font-size: 0.6em;
-}
-</style>
