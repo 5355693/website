@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/fosprangeexpansion/</loc>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
@@ -20,8 +28,40 @@
     
     <url>
     
+      <loc>/2018/07/25/book-of-why/</loc>
+      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/biodiversityroundtable/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/sprucefirnaturalhistory/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -37,7 +77,25 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2001-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biodiversity/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biological-diversity/</loc>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,8 +111,44 @@
     
     <url>
     
+      <loc>/tags/causal-diagrams/</loc>
+      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/causal-inference/</loc>
+      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/collaboration/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/community-ecology/</loc>
       <lastmod>2001-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/conservation/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -80,6 +174,22 @@
     
     <url>
     
+      <loc>/1/01/01/fox-sparrows-move-south/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/geographic-distribution/</loc>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -89,8 +199,44 @@
     
     <url>
     
+      <loc>/tags/maine/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/natural-history/</loc>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/new-hampshire/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
-      <lastmod>2001-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -99,7 +245,25 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2001-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/reading/</loc>
+      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/spruce-fir-forests/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -108,7 +272,16 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2001-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/vermont/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
