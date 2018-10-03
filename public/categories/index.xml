@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biogeography</title>
+      <link>/categories/biogeography/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/biogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural history</title>
+      <link>/categories/natural-history/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/natural-history/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

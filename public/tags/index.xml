@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 May 2001 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biodiversity</title>
+      <link>/tags/biodiversity/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biogeography</title>
+      <link>/tags/biogeography/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological diversity</title>
+      <link>/tags/biological-diversity/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/biological-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>/tags/collaboration/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/collaboration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Community ecology</title>
@@ -18,6 +54,15 @@
       <pubDate>Tue, 01 May 2001 00:00:00 -0400</pubDate>
       
       <guid>/tags/community-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -31,11 +76,83 @@
     </item>
     
     <item>
+      <title>Distributions</title>
+      <link>/tags/distributions/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Facilitation</title>
       <link>/tags/facilitation/</link>
       <pubDate>Tue, 01 May 2001 00:00:00 -0400</pubDate>
       
       <guid>/tags/facilitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fox Sparrow</title>
+      <link>/tags/fox-sparrow/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fox-sparrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic distribution</title>
+      <link>/tags/geographic-distribution/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/geographic-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maine</title>
+      <link>/tags/maine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/maine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural history</title>
+      <link>/tags/natural-history/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Hampshire</title>
+      <link>/tags/new-hampshire/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/new-hampshire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spruce-fir forests</title>
+      <link>/tags/spruce-fir-forests/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/spruce-fir-forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vermont</title>
+      <link>/tags/vermont/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/vermont/</guid>
       <description></description>
     </item>
     

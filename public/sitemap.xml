@@ -4,7 +4,15 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/publication/fosprangeexpansion/</loc>
+      <loc>/2018/10/03/fox-sparrows-move-south/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/fosprangeexpansion/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tutorial/example/</loc>
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -28,15 +36,15 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/2018/07/25/book-of-why/</loc>
-      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://johnlloyd.name/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -44,7 +52,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/project/biodiversityroundtable/</loc>
+      <loc>/project/biodiversityroundtable/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,7 +60,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/project/sprucefirnaturalhistory/</loc>
+      <loc>/project/sprucefirnaturalhistory/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -60,7 +68,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/publication/positiveinteractions/</loc>
+      <loc>/publication/positiveinteractions/</loc>
       <lastmod>2001-05-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -68,7 +76,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -77,7 +85,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/biodiversity/</loc>
+      <loc>/tags/biodiversity/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -86,7 +94,25 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/biological-diversity/</loc>
+      <loc>/tags/biogeography/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/biogeography/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biological-diversity/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -95,7 +121,8 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/categories/</loc>
+      <loc>/categories/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -103,25 +130,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/causal-diagrams/</loc>
-      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/categories/causal-inference/</loc>
-      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/tags/collaboration/</loc>
+      <loc>/tags/collaboration/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -130,7 +139,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/community-ecology/</loc>
+      <loc>/tags/community-ecology/</loc>
       <lastmod>2001-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -139,7 +148,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/conservation/</loc>
+      <loc>/tags/conservation/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -148,7 +157,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/desert-ecology/</loc>
+      <loc>/tags/desert-ecology/</loc>
       <lastmod>2001-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -157,7 +166,16 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/facilitation/</loc>
+      <loc>/tags/distributions/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/facilitation/</loc>
       <lastmod>2001-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -166,14 +184,16 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/1/01/01/fox-sparrows-move-south/</loc>
+      <loc>/tags/fox-sparrow/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/geographic-distribution/</loc>
+      <loc>/tags/geographic-distribution/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +202,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +211,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/maine/</loc>
+      <loc>/tags/maine/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +220,43 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/natural-history/</loc>
+      <loc>/tags/natural-history/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/natural-history/</loc>
+      <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/new-hampshire/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -209,25 +265,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/new-hampshire/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/publication_types/</loc>
+      <loc>/publication/</loc>
       <lastmod>2018-09-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -236,25 +274,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/publication/</loc>
-      <lastmod>2018-09-12T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/categories/reading/</loc>
-      <lastmod>2018-07-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://johnlloyd.name/tags/spruce-fir-forests/</loc>
+      <loc>/tags/spruce-fir-forests/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -263,7 +283,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -272,7 +292,7 @@
     
     <url>
     
-      <loc>https://johnlloyd.name/tags/vermont/</loc>
+      <loc>/tags/vermont/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
