@@ -10,11 +10,6 @@ header:
   image: "fosp.jpg"
 output: html_document
 ---
-<style>
-p.caption {
-  font-size: 0.6em;
-}
-</style>
 Late each fall, and then again early in spring, Fox Sparrows visit my backyard. Large and brightly colored, at least by sparrow standards, they are a harbinger of the changing seasons and a delight to watch during their brief stay. Sometimes they even sing during their brief spring stop-over, a beautiful set of downward, slurred whistles.
 
 Most field guides and [general references](https://www.allaboutbirds.org/guide/Fox_Sparrow/maps-range) depict Fox Sparrows as a bird that nests only in the boreal forest of Canada and Alaska and the high mountains of western North America. The eastern subspecies of Fox Sparrow—the Red Fox Sparrow (Passerella iliaca iliaca)—has traditionally been considered a passage migrant through New England, stopping off briefly in late fall and early spring as it travels to and from its breeding grounds in eastern Canada. However, several summers ago, while working in western Maine, I encountered several singing males in mid-June. As this seemed quite late for birds supposedly migrating through the region, I was intrigued. When I returned to camp that evening, I pulled off the shelf a copy of [Ralph Palmer's Maine Birds](https://www.biodiversitylibrary.org/item/26706#page/5/mode/1up), now almost 80 years old but still the definitive reference on the birdlife of Maine. As expected, Palmer describes Fox Sparrow as a "transient," a passage migrant that moves through the state early in spring and again late in the fall but most certainly not a breeding species. So what were these birds that I'd found singing in the middle of June doing? Why was a species that supposedly only migrates through the region present during the breeding season and apparently defending territories?
@@ -34,3 +29,9 @@ What explains this phenomenon? Right now, the answer is anyone's guess. One poss
 We've grown used to stories of climate change causing rapid shifts in the distribution of plants and animals across the globe, with southern species marching northward as the climate warms. Very rarely, though, do we see the opposite: a boreal species charging southward.
 
 Much remains to be learned about our new breeding resident: what is driving the southward expansion, what implications exist for the species that make up the biological communities colonized by Fox Sparrows, and where Fox Sparrows will finally stop. In the meantime, though, keep an eye out as you explore the wilds of the northeast and don't be surprised to see one of these boisterous northerners next summer.
+
+<style>
+p.caption {
+  font-size: 0.6em;
+}
+</style>
