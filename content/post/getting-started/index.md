@@ -1,49 +1,19 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "Fox Sparrows are moving south"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2018-10-03T00:00:00
+lastmod = 2018-10-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["John D Lloyd"]
 
 tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "Fox Sparrows have expanded their breeding range hundreds of miles to the south in the past few decades."
 
 [header]
-caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
-+++
+# caption = "Image credit: [**Factumquintus/CC-BY-SA-3.0**](https://unsplash.com/photos/CpkOjOcXdUY)"
+image = "fosp.jpg" caption = "Red Fox Sparrow (*Passerella iliaca iliaca*). Factumquintus/CC-BY-SA-3.0."
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
@@ -88,10 +58,10 @@ Prerequisites:
 * [Download and install Git](https://git-scm.com/downloads)
 * [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
 
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
+1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git:
 
         git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
+
     *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
 
 2. Initialize the theme:
@@ -111,11 +81,11 @@ Prerequisites:
 ## Quick start
 
 1. If you installed on your computer, view your new website by running the following command:
-      
+
         hugo server
 
     Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
+
 2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
 
 3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
