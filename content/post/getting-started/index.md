@@ -14,6 +14,36 @@ summary = "Fox Sparrows have expanded their breeding range hundreds of miles to 
 [header]
 # caption = "Image credit: [**Factumquintus/CC-BY-SA-3.0**](https://unsplash.com/photos/CpkOjOcXdUY)"
 image = "fosp.jpg" caption = "Red Fox Sparrow (*Passerella iliaca iliaca*). Factumquintus/CC-BY-SA-3.0."
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
+caption = "Ocean"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
+caption = "Coffee theme with Playfair font"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
+caption = "1950s"
++++
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
