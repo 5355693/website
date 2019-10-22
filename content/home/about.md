@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I am the Director of Science at the Vermont Center for Ecostudies and Adjunct Associate Professor in the Rubenstein School of Environment and Natural Resources at the University of Vermont. My research interests are broad, ranging from natural history to sustainable development. I am especially interested in figuring out how to better connect science, conservation policy, and conservation practice.  
+I am the Associate Director of Research at the American Wind Wildlife Institute and Adjunct Associate Professor in the Rubenstein School of Environment and Natural Resources at the University of Vermont. My research interests are broad, ranging from natural history to sustainable development. I am especially interested in figuring out how to better connect science, conservation policy, and conservation practice.  
 
 I also have a longstaning interest in scientific publishing and scientific communication, which I am able to indulge as a freelance editor for PLOS Biology and as a very occasional blogger.
