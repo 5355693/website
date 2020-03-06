@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/2020/03/06/losing-protections-for-birds/</loc>
+      <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/2019/10/24/hairy-downy-woodpeckers-lookalikes/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
     </url>
@@ -102,7 +110,7 @@
     
     <url>
     
-      <loc>/categories/biogeography/</loc>
+      <loc>/tags/biogeography/</loc>
       <lastmod>2019-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -111,7 +119,7 @@
     
     <url>
     
-      <loc>/tags/biogeography/</loc>
+      <loc>/categories/biogeography/</loc>
       <lastmod>2019-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -158,6 +166,24 @@
     
       <loc>/tags/conservation/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/conservation/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/conservation/</loc>
+      <lastmod>2020-03-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,7 +272,7 @@
     
     <url>
     
-      <loc>/categories/natural-history/</loc>
+      <loc>/tags/natural-history/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -255,7 +281,7 @@
     
     <url>
     
-      <loc>/tags/natural-history/</loc>
+      <loc>/categories/natural-history/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -300,7 +326,7 @@
     
     <url>
     
-      <loc>/categories/speciation/</loc>
+      <loc>/tags/speciation/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -309,7 +335,7 @@
     
     <url>
     
-      <loc>/tags/speciation/</loc>
+      <loc>/categories/speciation/</loc>
       <lastmod>2019-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
