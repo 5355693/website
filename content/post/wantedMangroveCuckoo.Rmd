@@ -10,7 +10,8 @@ header:
   image: "macuInHand.JPG"
 output: html_document
 ---
-This post originally appeared in the [Birdwatching Magazine](https://www.birdwatchingdaily.com/the-magazine/current-issue/). This is the article that allows me to claim, in all honesty, that I am a professional writer. It looks even better in the magazine, by the way. 
+*This post originally appeared as an article in the April 2021 issue of [Birdwatching Magazine](https://www.birdwatchingdaily.com/the-magazine/current-issue/). This is the first non-scholarly article that I've published and it allows me to claim, in all honesty, that I am a professional writer. At last. It looks even better in the magazine, by the way.* 
+
 
 I’m waist-deep in water the color of over-steeped tea, feet sinking into the soft, sucking mud of the coastal Everglades. My wet, salty pants chafe miserably at the back of my legs. All around me stand red mangroves, aerial roots spreading out like the legs of some enormous spider. Stretched across a low branch just above the water is a mangrove salt marsh snake, warming itself in the morning’s first rays of sun. 
 
