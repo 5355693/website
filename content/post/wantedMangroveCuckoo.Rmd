@@ -1,0 +1,71 @@
+---
+title: "Wanted: Mangrove Cuckoo"
+author: "John D. Lloyd"
+date: "`r Sys.Date()`"
+slug: wanted-mangrove-cuckoo
+categories: ["natural history"]
+tags: ["natural history"]
+header:
+  caption: "Rachel Frieze bands a Mangrove Cuckoo in southern Florida"
+  image: "macuInHand.jpg"
+output: html_document
+---
+This post originally appeared in the [Birdwatching Magazine](https://www.birdwatchingdaily.com/the-magazine/current-issue/). This is the article that allows me to claim, in all honesty, that I am a professional writer. It looks even better in the magazine, by the way. 
+
+I’m waist-deep in water the color of over-steeped tea, feet sinking into the soft, sucking mud of the coastal Everglades. My wet, salty pants chafe miserably at the back of my legs. All around me stand red mangroves, aerial roots spreading out like the legs of some enormous spider. Stretched across a low branch just above the water is a mangrove salt marsh snake, warming itself in the morning’s first rays of sun. 
+
+`r blogdown::shortcode("figure", src = "/img/tunnelOfMangroves.jpg", caption = "A lane of open water cuts through a forest of red mangrove in south Florida.")`
+
+No car horns, no rumble of outboard motors, no sign or sounds of people at all, in fact, just the steady drone of insects and the rattling whinny of a Red-bellied Woodpecker. The contrail of a jet across the thin blue strip of sky above me is the only reminder that I’m here in present-day Florida, deep in a small tributary of the Shark River, along the state’s southwest coast. 
+
+It isn’t quite 7:00 AM but the late-April heat is already suffocating. No breeze. Rivulets of sweat run down my forehead and into my eyes. I’d rub them, but I’m wearing vinyl gloves and am completely zipped into my bug suit. I briefly consider removing my hood for just a minute to catch a breath of air before returning to my senses: my clothes are covered in hundreds of mosquitos waiting patiently for a gap to emerge in my fabric defenses.  Out here, you either live with the discomfort of being covered head-to-toe or you agree to donate substantial amounts of blood to the local mosquito population. 
+
+Welcome to Mangrove Cuckoo country.
+
+Mangrove Cuckoos bring birders both joy and frustration, much like our children, the weather, or the Chicago Cubs. With Mangrove Cuckoos, the joy comes from the encounter, borne out of some special combination of location, timing, and luck. Often you’ll hear one before you see it: that unmistakable series of guttural “aww” notes, rising and falling in volume and pitch. 
+
+It isn’t an especially melodic song, but it snapped me to attention the first time that I heard it. On high alert, I scanned the vegetation all around me with just a hint of desperation. I didn’t want this bird to disappear before I had a look at it. 
+
+And then, there it was: swooping down from a perch with wings flared wide. Nothing spectacular to see, grayish-brown back and wings, long tail trailing behind, bright white terminal spots contrasting on otherwise black outer tail feathers. Alighting for a moment on a low, exposed branch, it turned towards me, the sinking sun briefly illuminating the tawny belly and the bright yellow lower bill set hard against the entirely black upper bill. Not a Yellow-billed Cuckoo, its more common cousin. The white eyebrow highlighting the racoon-like face mask gave it a look of skeptical curiosity. And then, quick as it came, the bird was gone into the dim, shadowy understory, perfectly camouflaged. 
+
+`r blogdown::shortcode("figure", src = "/img/cuckoos1asm.jpg", caption = "A peek into the secret life of the elusive Mangrove Cuckoo. Here, two birds engage in a bit of foreplay. The male, grasping the back of his mate, offers a bit of food as an enticement. If she accepts, this courtship feeding is a precursor to mating.")`
+
+The frustration, of course, comes from the reality that these encounters are rare. Rare even for me after spending the better part of a decade tromping through the wilds – and not-so-wilds – of south Florida, studying the natural history of Mangrove Cuckoos. 
+
+Location, timing, and luck. As with any of the uncommon birds that we chase, finding a Mangrove Cuckoo is about being in the right place at the right time. And, frankly, about being a little lucky. Science doesn’t help so much with luck, but arming yourself with a bit of natural history can help when it comes to location and timing.
+
+Start with location. First, some bad news: the geographic range of Mangrove Cuckoo in the mainland United States is tiny, and their preferred habitat is roadless and flooded. Mangrove Cuckoos live only in the narrow strip of mangroves that fringe the coast of southern Florida. Outside of a handful of easily accessible locations, they inhabit some truly wild places. 
+
+`r blogdown::shortcode("figure", src = "/img/disturbedMangroves.jpg", caption = "A reminder of why we stick to the tidal creeks: foot travel through the flooded, snarled tangle that is a mangrove forest is impossible.)`
+
+Mangrove Cuckoos are also non-migratory and exceedingly unlikely to show up as vagrants anywhere north of southern Florida. Texas has recorded 10 observations, and Louisiana and Alabama each have a single accepted record of Mangrove Cuckoo. So, unless you are staggeringly lucky, finding a Mangrove Cuckoo in the mainland United States requires making your way to Florida and then at least as far south as Tampa Bay. Leave the mainland behind, and you can find Mangrove Cuckoos throughout the islands of the Caribbean, along both coasts of Mexico and Central America, and as far south as Brazil. 
+
+Oddly enough, only in Florida and Brazil do Mangrove Cuckoos live solely in mangroves. In Mexico,  I’ve seen them in dry forests at an elevations of nearly 4,000 feet. In Puerto Rico, they are common in shade-grown coffee plantations. Although they inhabit mangroves wherever they occur, it is only at the northern and southern edges of their range that Mangrove Cuckoos are truly specialists of mangrove forests.  
+
+Now some good news about location. 
+
+When I first started studying Mangrove Cuckoos in Florida, and wanted to know more about where and how they live, I figured that the best place to look for them would be the wildest, most pristine mangrove forests that I could find. That led me to spend one spring navigating the backcountry of Everglades National Park in a small kayak. 
+
+I camped on beaches and chickees (the Seminole word for ‘house’, but in this case referring specifically to the above-water camping platforms in the park’s backcountry), came close to learning how many mosquito bites it requires to exsanguinate a human, was bumped on more than one occasion by a curious or hungry bull shark, enjoyed the company of bottlenose dolphins, and discovered a new appreciation for the raw beauty of that flooded landscape. I even found a few Mangrove Cuckoos.
+
+What I later learned is that this was a fun but unnecessarily difficult way to find a Mangrove Cuckoo. Yes, you will find them in the majestic and towering forests along the Shark River – where you might enjoy the scenery and lack of traffic noise, too – but Mangrove Cuckoos aren’t especially choosy about the kind of mangrove forest they inhabit, as long as they have enough space. Given a large enough patch of mangroves – 70 acres is about the minimum size, and most individuals seem to need closer to 300 acres – you can also find them behind strip malls and next to busy highways. Add that as another benefit to conserving Florida’s remaining mangroves, even those that may not seem pristine or especially wild (San Carlos Bay – Bunche Beach Preserve in Fort Myers being an excellent example of this).
+
+Once you’ve decided on a good location, whether discovered through your own travels or by visiting one of the well-known hotspots, be patient. Mangrove Cuckoos move around. A lot. One radio-tagged bird that I followed travelled more than 20 miles in one day – not migrating, just moving from place to place. 
+
+That kind of wandering is almost wolf-like in its expansiveness. Why Mangrove Cuckoos need such large blocks of habitat isn’t clear, but one speculation is that their diet demands it. Even more so than other cuckoos, Mangrove Cuckoos seem to like big prey: frogs, lizards, and large insects. Perhaps finding enough of these choice morsels, especially in mangroves, requires a lot of travel. 
+
+Paradoxically, once you find a Mangrove Cuckoo, it will often pose nicely for photographs and will reward your patience with extended opportunities for observation. They travel great distances to find food, but when they are actively hunting they methodically search their immediate surroundings. They walk slowly along branches, pausing frequently for extended periods of time, craning their necks in almost grotesque fashion as they search the undersides of leaves for food. 
+
+A drawback of their patient hunting style is that Mangrove Cuckoos will not attract your attention with flitting and dashing like a warbler or flycatcher. Here’s where timing comes in: it is a lot easier to find these birds during the breeding season, when they are more likely to be heard singing.
+
+We don’t know exactly when Mangrove Cuckoos nest in Florida, although it probably begins around the end of the winter dry season, usually in April, and may continue through July or early August. 
+
+One clue about the breeding status of Mangrove Cuckoos is the color of the bare skin around the eye. Long thought to reflect age (and still noted as such in field guides) – gray in juvenile birds, and yellow in adults – we now know that the color of the eye-ring reflects readiness to breed. Birds begin exhibiting a dusky-gray eye-ring as the breeding season begins. Like an aspen leaf in fall it will turn yellow as the summer ends and will remain so until the following spring. 
+
+From late summer until March, Mangrove Cuckoos tend to be quiet and solitary. This, coupled with their generally unobtrusive behavior, overall rarity, and preference for difficult environments, probably explains why many naturalists assumed that Mangrove Cuckoos migrated out of Florida during the winter (the first published observation of a Mangrove Cuckoo in winter in Florida didn’t occur until 1955, on the Coot Bay Christmas Bird Count). We now know that they remain in the state all year, but can become quite hard to find in winter. 
+
+Back to location, timing, and luck. Being in the right habitat at the right time of year will increase your chances of encountering a Mangrove Cuckoo. It’s worth remembering, though, that it is still a game of chance. The quest for a cuckoo rewards the well-prepared and patient, but neither is a guarantee. Keep this in mind: hidden within Florida’s mangrove forests, which cover 1,000 square miles of mostly inaccessible coastline, are no more than about 7,000 Mangrove Cuckoos. To put that number in perspective, there are about 200 million American Robins in the United States. 
+
+All of these thoughts run through my head as I stand in that flooded forest of mangroves along that unnamed tributary of the Shark River, staring at a green wall of foliage that I keep expecting to open and reveal the prize of a Mangrove Cuckoo. It’s nearly 10 in the morning now, and I’ve been out here for hours. It’s hot enough that the mosquitos have given way to the no-see-ums, which is no improvement at all. 
+
+Just yesterday a Mangrove Cuckoo, probably a male on a territory, perched right here, calling and preening for nearly 20 minutes while I floated along with the tide in my kayak. I’d hoped to include it in my research. Over the weeks to come, I’ll return to this spot again and again, and never see or hear a Mangrove Cuckoo. As I climb back into the kayak to start the journey home, hot and exhausted, I am given a bit of solace in knowing that when I make it back to the boat ramp, the birders that I will meet as I shuttle gear from kayak to truck will understand and sympathize. Location, timing, and luck: two out of three just wasn’t enough.
