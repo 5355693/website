@@ -13,7 +13,7 @@ title = "John Lloyd"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2021"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -55,17 +55,17 @@ enableGitInfo = false
 
   # Your details.
   name = "John D Lloyd"
-  role = "Associate Director of Research"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "American Wind Wildlife Institute", url = "http://www.awwi.org" } ]
+  #organizations = [ { name = "American Wind Wildlife Institute", url = "http://www.awwi.org" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
-  email = "5355693@gmail.com"
+  email = "john.lloyd@outlook.com"
   address = "PO Box 106, South Strafford, Vermont, 05070, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 971 645 5463"
