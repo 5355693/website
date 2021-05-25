@@ -7,14 +7,14 @@ categories: ["natural history"]
 tags: ["natural history"]
 header:
   caption: "Rachel Frieze bands a Mangrove Cuckoo in southern Florida"
-  image: "macuInHand.jpg"
+  image: "macuInHand.JPG"
 output: html_document
 ---
 This post originally appeared in the [Birdwatching Magazine](https://www.birdwatchingdaily.com/the-magazine/current-issue/). This is the article that allows me to claim, in all honesty, that I am a professional writer. It looks even better in the magazine, by the way. 
 
 I’m waist-deep in water the color of over-steeped tea, feet sinking into the soft, sucking mud of the coastal Everglades. My wet, salty pants chafe miserably at the back of my legs. All around me stand red mangroves, aerial roots spreading out like the legs of some enormous spider. Stretched across a low branch just above the water is a mangrove salt marsh snake, warming itself in the morning’s first rays of sun. 
 
-`r blogdown::shortcode("figure", src = "/img/tunnelOfMangroves.jpg", caption = "A lane of open water cuts through a forest of red mangrove in south Florida.")`
+`r blogdown::shortcode("figure", src = "/img/tunnelOfMangroves.JPG", caption = "A lane of open water cuts through a forest of red mangrove in south Florida.")`
 
 No car horns, no rumble of outboard motors, no sign or sounds of people at all, in fact, just the steady drone of insects and the rattling whinny of a Red-bellied Woodpecker. The contrail of a jet across the thin blue strip of sky above me is the only reminder that I’m here in present-day Florida, deep in a small tributary of the Shark River, along the state’s southwest coast. 
 
@@ -36,7 +36,7 @@ Location, timing, and luck. As with any of the uncommon birds that we chase, fin
 
 Start with location. First, some bad news: the geographic range of Mangrove Cuckoo in the mainland United States is tiny, and their preferred habitat is roadless and flooded. Mangrove Cuckoos live only in the narrow strip of mangroves that fringe the coast of southern Florida. Outside of a handful of easily accessible locations, they inhabit some truly wild places. 
 
-`r blogdown::shortcode("figure", src = "/img/disturbedMangroves.jpg", caption = "A reminder of why we stick to the tidal creeks: foot travel through the flooded, snarled tangle that is a mangrove forest is impossible.)`
+`r blogdown::shortcode("figure", src = "/img/disturbedMangroves.JPG", caption = "A reminder of why we stick to the tidal creeks: foot travel through the flooded, snarled tangle that is a mangrove forest is impossible.")`
 
 Mangrove Cuckoos are also non-migratory and exceedingly unlikely to show up as vagrants anywhere north of southern Florida. Texas has recorded 10 observations, and Louisiana and Alabama each have a single accepted record of Mangrove Cuckoo. So, unless you are staggeringly lucky, finding a Mangrove Cuckoo in the mainland United States requires making your way to Florida and then at least as far south as Tampa Bay. Leave the mainland behind, and you can find Mangrove Cuckoos throughout the islands of the Caribbean, along both coasts of Mexico and Central America, and as far south as Brazil. 
 
