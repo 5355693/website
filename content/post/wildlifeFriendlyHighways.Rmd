@@ -1,0 +1,14 @@
+---
+title: "Wildlife-friendly Highways"
+author: "John D. Lloyd"
+date: "`r Sys.Date()`"
+slug: wildlife-friendly-highways
+categories: ["natural history","conservation"]
+tags: ["natural history", "conservation", "wildlife crossings", "road crossings", "roadkill"]
+header:
+  caption: 
+  image: 
+output: html_document
+---
+`r blogdown::shortcode("youtube","BqHGpLE0GaU")`
+
