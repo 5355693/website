@@ -10,8 +10,6 @@ header:
   image: "februaryMoonUmbagog.jpg"
 output: html_document
 ---
-This post originally appeared in the [Journal of Natural History Education & Experience](https://naturalhistoryinstitute.org/journal-index/).
-
 Natural-history writing comes in many flavors. Sometimes it takes the form of a catalog of observations of plants and animals, other times it presents accounts of exploration and adventure in the wild, and sometimes it is as much about the people as the landscape that shapes them.
 
 Nonetheless, perhaps because its subjects and themes appear so constant, it has to me a timeless feel.  For better or worse, the style of the narrative tends towards the uniform, even as the subjects and themes differ widely.
@@ -51,3 +49,5 @@ This is not a book that will provide much new insight into the natural history o
 Despite these failings, it is a lyrical and wide-ranging and thoughtfully crafted book about the natural world and our place in it, and for me it has served as a reminder of the romance of natural history and the value of being aware of the lives lived all around us.  Natural history is not a practice only for the mountaintop or remote rainforest; we may, as Peattie believed, learn as much observing the ants amidst the cracks of the sidewalk.
 
 Like most of us, he yearned for the sublime at times – “I would go now, if I could, to the mountains…some gentle hills, mere unevenness in the land, will not help me” – but never scorned or overlooked the commonplace.  It is an inspiring and reassuring book, especially for those of us lacking the Skutchian patience needed to stare unblinking at a bird’s nest for days on end, or whose careers and lives will not be spent describing new species or traveling unmapped wilderness.  No matter where we are, or what we do, we can remember always that “Life, brother, is not all mankind…[w]ait with me a little; only listen to the soft, tremendous footfalls of a destiny that is greater than ours; hear a while the hum of summer, for it is not only the scraping of the small chitinous instruments of insects; it is the singing of the world’s blood as it runs in your own veins and sounds in your own ears.”
+
+*This post originally appeared in the [Journal of Natural History Education & Experience](https://naturalhistoryinstitute.org/journal-index/).*
