@@ -66,10 +66,10 @@ enableGitInfo = false
   
   # Details for the Contact Widget
   email = "john.lloyd@outlook.com"
-  address = "PO Box 106, South Strafford, Vermont, 05070, USA"
+  #address = "PO Box 106, South Strafford, Vermont, 05070, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+1 971 645 5463"
-  skype = "john.david.lloyd"
+  #phone = "+1 971 645 5463"
+  #skype = "john.david.lloyd"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
