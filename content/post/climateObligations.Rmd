@@ -1,0 +1,35 @@
+---
+title: "Climate obligations"
+author: "John D. Lloyd"
+date: "`r Sys.Date()`"
+slug: climate-obligations
+categories: ["climate change"]
+tags: ["climate change"]
+header:
+  caption: "Erin Magee/DFAT/[CC-BY-2.0](https://creativecommons.org/licenses/by/2.0)."
+  image: "Kiribati.jpg"
+output: html_document
+---
+Last night I did something that I rarely do: I coerced my son into watching a documentary film with me. Obigatory family viewings of "important" movies always feels stilted to me, like making a passenger in your car listen to your favorite song and insisting that they pay close attention to the lyrics.
+
+Climate change has been much on my mind this week. Not just because we are enduring yet another early-season heat wave here in the northeastern US, but also because I'm attending the [Mind and Life Institute's Summer Research Institute](https://www.mindandlife.org/event/2021-summer-research-institute/), which this year has the theme of "The Mind, the Human-Earth Connection, and the Climate Crisis". The time spent with other scholars and activists has encouraged me to think about climate change in ways that I usually do not. I've been so focused on the ecological consequences of climate change - and our efforts to mitigate it - that I rarely pause to consider the emotional consequences. For me, for my family, my friends, my community, and for people I don't and won't ever know.
+
+It was with this in mind that I cued up the documentary [Breaking Boundaries: The Science of Our Planet](https://www.theguardian.com/environment/2021/jun/04/david-attenborough-netflix-documentary-australian-scientists-break-down-in-tears-over-climate-crisis) and served dinner on the coffee table in front of the TV. An unusual twist on the classic parental *quid pro quo*: no dinner until you watch this movie with me.
+
+We were about 20 minutes into the movie when I looked over at my son and saw him pick up his phone, type something, and put it back down. Another minute passes and he does it again. And then again. At this point I am convinced with all the righteous fervor of the uninformed that he is snapping with his friends and ignoring this Very Important Film. I am about to offer up some threat to cut off phone privileges when I see that he isn't on SnapChat but instead has his calculator open and is trying to convert meters - as in meters of sea level rise, which is being discussed on screen - into feet, a unit that is intuitive for him.
+
+It was then that I realized he was paying far closer attention then I was (I'm a scientist, right? I know all about planetary boundaries). He was doing his calculations, translating what he heard, and thinking about all of the places in the world that would disappear beneath the waves during his lifetime.
+
+For the first time, in that moment, I understood on an emotional level my obligation to him, to his generation, and to all those that will follow him. Climate change is not an abstract for them. It is not something that they will simply complain about (see: "enduring another early-season heat wave", above), something that will be inconvenient but ultimately manageable.
+
+We - those of us born after the 1960s - inherited a dirty, messy planet, too. But our parents did their best to correct the errors of their ways and the ways of their parents. In the United States, they addressed the point-source pollution that rendered most waterways unfit for life, they passed legislation protecting endangered plants and animals, and they made fitful but ultimately successful efforts to reduce air pollution. They missed the boat - and continue to miss the boat - on climate change, but at least in the early years we can offer up ignorance as an excuse.
+
+Those of us now of an age to vote, to hold elected office, to manage private companies, and to dictate patterns of consumption and production do not have ignorance as an excuse. The science is clear and unambiguous on nearly every salient facet of climate change. We have identified solutions. What many of us seem to lack is the will to take action. And I understand this: even as scientist involved in climate-change research, the ongoing crisis can seem far off and less important than the myriad other immediate problems in our lives.
+
+Yet, in reality, it is not all far off or distant for anyone alive today. We can see the storm clouds and feel the first drops of rain. My responsibility now is to fix firmly in my mind a vision of what the eventual deluge could look like and what it will leave behind for my children. From that vision, to feel their suffering and, if I am sufficently empathetic, to feel the suffering of everything and everyone that will inhabit that same future world. To decide then whether I can muster the compassion to act and the wisdom to understand how to act.
+
+1 Greenland ice sheet.
+6 meters of sea-level rise.
+19.7 feet of sea-level rise.
+840 million people displaced.
+1 chance to make this right. 
