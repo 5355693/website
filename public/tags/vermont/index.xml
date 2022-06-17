@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vermont on John Lloyd</title>
-    <link>/tags/vermont/</link>
+    <link>https://johnlloyd.name/tags/vermont/</link>
     <description>Recent content in Vermont on John Lloyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/vermont/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnlloyd.name/tags/vermont/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Co-creating a research agenda for biodiversity conservation</title>
-      <link>/project/biodiversityroundtable/</link>
+      <link>https://johnlloyd.name/project/biodiversityroundtable/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/biodiversityroundtable/</guid>
+      <guid>https://johnlloyd.name/project/biodiversityroundtable/</guid>
       <description>In June 2016, we assembled a group of scientists, practitioners, and policy-makers who are involved professionally with biodiversity conservation and charged them with the task of co-creating a research agenda for biodiversity conservation in Vermont. Participants were asked to answer two questions in particular: 1) what are the key threats to biodiversity in Vermont, and 2) what knowledge do we need to address these threats?
 By bringing together this diverse group of stakeholders and asking them to discuss these questions together, we sought to narrow the divides among science, policy, and action that have at times hindered development and implementation of effective biodiversity-conservation strategies.</description>
     </item>

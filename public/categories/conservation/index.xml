@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conservation on John Lloyd</title>
-    <link>/categories/conservation/</link>
+    <link>https://johnlloyd.name/categories/conservation/</link>
     <description>Recent content in Conservation on John Lloyd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/conservation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnlloyd.name/categories/conservation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Wildlife-friendly Highways</title>
+      <link>https://johnlloyd.name/2021/05/26/wildlife-friendly-highways/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnlloyd.name/2021/05/26/wildlife-friendly-highways/</guid>
+      <description> How can we make roads safer for wildlife and for drivers? In this video, produced by Oregon Public Broadcasting, Peter Singleton and I discuss the problems that roads pose for wildlife and offer up some potential solutions. Originally broadcast as Episode 1801 of OBP’s “Oregon Field Guide”.   </description>
+    </item>
+    
+    <item>
       <title>The Migratory Bird Treaty Act and bird conservation</title>
-      <link>/2020/03/06/losing-protections-for-birds/</link>
+      <link>https://johnlloyd.name/2020/03/06/losing-protections-for-birds/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/03/06/losing-protections-for-birds/</guid>
+      <guid>https://johnlloyd.name/2020/03/06/losing-protections-for-birds/</guid>
       <description>Last December, a team led by scientist Tatsuya Amano from the University of Oxford’s Conservation Science Group published an important paper on waterbird conservation. Using data collected across the globe, they examined population changes over the past 3 decades in 461 species of waterbird, including everything from ducks to shorebirds to flamingos. During this time, waterbirds in some parts of the world thrived, but in other places they experienced steep declines.</description>
     </item>
     
